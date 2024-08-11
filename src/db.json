@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "how many chucks could a woodchuck chuck",
+      "answer": 5
+    },
+    {
+      "id": 2,
+      "question": "how did I end up here",
+      "answer": "Should've made a left turn at Albuquerque"
+    }
+  ]
+}
