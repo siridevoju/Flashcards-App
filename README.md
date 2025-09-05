@@ -1,1 +1,1 @@
-Flashcards Demo App
+Flashcards Application
